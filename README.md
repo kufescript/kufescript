@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kufescript
-- 👀 I’m interested in ... creating my own flashloan codes 
-- 🌱 I’m currently learning ... Flashloan 
+- 👀 I’m interested in ... creating my own nfts 
+- 🌱 I’m currently learning ... web3.0 
 - 💞️ I’m looking to collaborate on ...I can can work with a developer 
 - 📫 How to reach me ... atohpaddy@gmail.com
 
